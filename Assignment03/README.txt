@@ -1,8 +1,6 @@
 Daniel Chang
-Student ID: 921174056
 Date: 3/11/2022
-Class: CSC340 Programming Methodology
-Assignment 3
+A dictionary in C++. Exploration of functions and basic use of C++
 
 Part A. Right click source Files and add existing item "Assignment-03_PA_TicTacToe.cpp"
 Run 
