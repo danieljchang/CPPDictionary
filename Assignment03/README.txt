@@ -1,6 +1,7 @@
 Daniel Chang
 Date: 3/11/2022
 A dictionary in C++. Exploration of functions and basic use of C++
+Made on Visual Studio 2022.
 
 Part A. Right click source Files and add existing item "Assignment-03_PA_TicTacToe.cpp"
 Run 
